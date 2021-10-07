@@ -7,7 +7,7 @@
 <br />
 
 ### Connect to me 😊
-[!<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" />][discord]
+[<img height="32" width="32" src="https://github.com/simple-icons/simple-icons/blob/develop/icons/discord.svg" />][discord]
 
 ---
 
