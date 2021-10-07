@@ -8,7 +8,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Dusk-afk&show_icons=true&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Dusk-afk" />
+
 
 [website]: 
 [course]: 
