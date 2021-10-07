@@ -8,7 +8,7 @@
 
 ---
 
-[<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Dusk-afk"/>]
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=Dusk-afk"/>
 
 
 [website]: 
