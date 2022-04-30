@@ -1,8 +1,11 @@
-## Hi there, I'm Piyush - aka [Dusk] 👋
+<h1 align="center">Hi there, I'm Piyush - aka [Dusk] 👋</h1>
 
-- 🦘 I'm a software and android developer
-- 🌱 Currently I'm mastering Kotlin
-- 🎸 I love to play Guitar
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dusk-afk&label=Profile%20views&color=0e75b6&style=flat" alt="dusk-afk" /> </p>
+
+- 🦘 I'm currently working on [HydraYT](https://github.com/Dusk-afk/hydrayt)
+- 🌱 Trying to learn advance about Flutter
+- 👯 I’m looking to collaborate on Flutter based projects
+- 🎸 Fun Fact: I love to play Guitar
 
 <br />
 
