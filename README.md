@@ -2,7 +2,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dusk-afk&label=Profile%20views&color=0e75b6&style=flat" alt="dusk-afk" /> </p>
 
-- 🦘 I'm currently working on [HydraYT](https://github.com/Dusk-afk/hydrayt)
+- 🦘 I'm currently working on a private project
+- 🌀 Checkout [HydraYT](https://github.com/Dusk-afk/hydrayt) which I have completed
 - 🌱 Trying to learn advance about Flutter
 - 👯 I’m looking to collaborate on Flutter based projects
 - 🎸 Fun Fact: I love to play Guitar
