@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dusk-afk&label=Profile%20views&color=0e75b6&style=flat" alt="dusk-afk" /> </p>
 
-- 🦘 I'm currently working on a private project
-- 🌀 Checkout [HydraYT](https://github.com/Dusk-afk/hydrayt) which I have completed
-- 🌱 Trying to learn advance about Flutter
+- 🦘 I'm currently working on personal projects
+- 🌀 Checkout [Spotify Clone](https://github.com/Dusk-afk/spotify-clone) which I have completed
+- 🌱 Trying to learn NEXT JS
 - 👯 I’m looking to collaborate on Flutter based projects
 - 🎸 Fun Fact: I love to play Guitar
 
